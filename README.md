@@ -30,7 +30,7 @@ Medi-Assist helps users:
 - Understand common symptoms quickly  
 - Decide when to seek professional medical help  
 
-> ⚠️ **Disclaimer:** Medi-Assist is intended for informational purposes only and does **not** replace professional medical advice, diagnosis, or treatment.
+> ⚠️ **Disclaimer:** Real Time Helper is intended for informational purposes only and does **not** replace professional medical advice, diagnosis, or treatment.
 
 
 
