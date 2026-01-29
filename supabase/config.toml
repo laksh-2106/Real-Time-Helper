@@ -1,0 +1,4 @@
+project_id = "nhctgafhhyyaeoxccnbn"
+
+[functions.medical-assistant]
+verify_jwt = false
